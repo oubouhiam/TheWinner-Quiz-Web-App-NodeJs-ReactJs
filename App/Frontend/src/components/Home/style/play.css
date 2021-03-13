@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&family=Tenali+Ramakrishna&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&family=Tenali+Ramakrishna&family=Vast+Shadow&display=swap');
+.questback{
+    background-image: url(../pages/images/back.jpg);
+    height: 948px;
+    background-size: cover;
+}
+.questiontitle{
+    color: white;
+    font-family: 'Jockey One', sans-serif;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 100px;
+    margin-left: 145px;
+}
+.trytitle{
+    color: white;
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 50px;
+    margin-left: 145px;
+}
+.questiontitle{
+    color: white;
+    font-size: 33px;
+    text-align: center;
+}
+.question{
+    display: flex;
+    color: white;
+}
+.answer{
+    font-size: 20px;
+    list-style-type: none;
+    border: #006091 1px solid;
+    border-radius: 70px;
+    background: linear-gradient(#004c72, #021f23);
+    display: flex;
+    width: 250px;
+    justify-content: center;
+    margin-top: 40px;
+    cursor: pointer;
+    font-family: 'Vast Shadow', cursive;
+}
+.answer2{
+    margin-top: 40px;
+}
+.colo1{
+    margin-right: 300px;
+    margin-left: 140px;
+}
