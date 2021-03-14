@@ -26,8 +26,6 @@
 [![Product Name Screen Shot][TheWinning-screenshot]](https://github.com/oubouhiam/TheWinner-Quiz-Web-App-NodeJs-ReactJs)
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/oubouhiam/TheWinner-Quiz-Web-App-NodeJs-ReactJs)
-
-[![Product Name Screen Shot][product-screenshot1]](https://github.com/oubouhiam/TheWinner-Quiz-Web-App-NodeJs-ReactJs)
 [![Product Name Screen Shot][product-screenshot2]](https://github.com/oubouhiam/TheWinner-Quiz-Web-App-NodeJs-ReactJs)
 [![Product Name Screen Shot][product-screenshot3]](https://github.com/oubouhiam/TheWinner-Quiz-Web-App-NodeJs-ReactJs)
 [![Product Name Screen Shot][product-screenshot4]](https://github.com/oubouhiam/TheWinner-Quiz-Web-App-NodeJs-ReactJs)
