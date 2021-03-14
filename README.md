@@ -21,8 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
-(https://github.com/oubouhiam/TheWinner-Quiz-Web-App-NodeJs-ReactJs)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/oubouhiam/TheWinner-Quiz-Web-App-NodeJs-ReactJs)
 
 [![Product Name Screen Shot][TheWinning-screenshot]](https://github.com/oubouhiam/TheWinner-Quiz-Web-App-NodeJs-ReactJs)
 
