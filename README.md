@@ -127,7 +127,7 @@ Project Link: [https://github.com/oubouhiam/TheWinner-Quiz-Web-App-NodeJs-ReactJ
 [product-screenshot2]: Screenshot/signup.png
 [product-screenshot3]: Screenshot/login.png
 [product-screenshot4]: Screenshot/list-category.png
-[product-screenshot5]: Screenshot/game.png
+[product-screenshot5]: Screenshot/game.PNG
 [product-screenshot6]: Screenshot/dashboard.png
 [product-screenshot7]: Screenshot/crudCtagrie.png
 
