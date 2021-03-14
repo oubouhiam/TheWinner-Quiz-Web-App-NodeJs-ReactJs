@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/oubouhiam/TheWinner-Quiz-Web-App-NodeJs-ReactJs">
-    <img src="Screenshot/logo.jpg" alt="Logo" width="200" height="80">
+    <img src="Screenshot/logo.jpg" alt="Logo" width="600" height="100">
   </a>
   <h3 align="center">The Winner</h3>
     <p align="center">
